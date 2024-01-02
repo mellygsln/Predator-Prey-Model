@@ -1,1 +1,2 @@
 # Predator-Prey-Model
+Model predator-prey dalam ekologi adalah representasi matematika dari interaksi antara dua populasi, yaitu predator dan prey. Dalam Python, implementasinya bisa menggunakan model Lotka-Volterra dengan persamaan diferensial untuk memodelkan perubahan jumlah individu dari waktu ke waktu. Biasanya melibatkan NumPy untuk manipulasi numerik dan matplotlib untuk visualisasi hasil simulasi.
